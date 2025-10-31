@@ -96,13 +96,6 @@ compress_html:
   ignore:
     envs: [development]
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
 
 # Paginate (Jumlah post per halaman di Halaman Utama)
 paginate: 10
